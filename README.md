@@ -19,4 +19,7 @@
 #2-2 찾아낸 peak를 사용하여 보간법을 이용하여 진행한다.(해당 코드 EDR_Nomalization_peak_detection)
 #2-3 찾아낸 peak와 역수 peak값을 이용하여 EDR를 진행한다.
 
+#해당 코드
+#EDR_normalization
+
 
