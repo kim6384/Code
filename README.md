@@ -20,6 +20,6 @@
 #2-3 찾아낸 peak와 역수 peak값을 이용하여 EDR를 진행한다.
 
 #해당 코드
-#EDR_normalization
+#EDR_보간법.ipynb
 
 
